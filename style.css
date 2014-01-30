@@ -39,3 +39,7 @@ a:link {
 a:visited {
     color: #FFFFFF;
 }
+
+a:hover {
+    font-weight: bold;
+}

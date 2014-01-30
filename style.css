@@ -1,20 +1,26 @@
 /*CSS for rucklehouse.github.io*/
+body {
+    background-color: #C0E5E4
+}
+
 .header {
-    height: 50px;
+    height: 75px;
     width: 100%;
     background-color: #196966;
     font-family: Verdana, Arial, sans-serif;
     text-align: center;
     font-size: 1em;
-    color: #ffffff;
+    color: #FFFFFF;
 }
 
 .navbar {
     height: 20px;
     width: 100%;
-    background-color: #45b3af;
+    background-color: #45B3AF;
 }
 
 .navbar li {
     display: inline;
+    margin-left: 5%;
+    margin-left: 5%;
 }

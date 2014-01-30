@@ -3,11 +3,18 @@
     height: 50px;
     width: 100%;
     background-color: #196966;
-    font-family: Verdana,Arial,sans-serif;
+    font-family: Verdana, Arial, sans-serif;
     text-align: center;
     font-size: 1em;
     color: #ffffff;
 }
 
 .navbar {
+    height: 20px;
+    width: 100%;
+    background-color: #45b3af;
+}
+
+.navbar li {
+    display: inline;
 }

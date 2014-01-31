@@ -1,6 +1,7 @@
 /*CSS for rucklehouse.github.io*/
 body {
     background-color: #C0E5E4
+    font-family: Verdana, Arial, sans-serif;
 }
 
 .header {
@@ -9,7 +10,6 @@ body {
     margin-top: -20px;
     background-color: #196966;
     padding-top: 10px;
-    font-family: Verdana, Arial, sans-serif;
     text-align: center;
     font-style: oblique;
     font-size: 1em;
@@ -33,7 +33,6 @@ body {
     margin-right: 5%;
     text-align: center;
     text-transform: uppercase;
-    font-family: Verdana, Arial, sans-serif;
     font-size: 1em;
     color: #FFFFFF;
 }
@@ -49,4 +48,27 @@ a:visited {
 
 a:hover {
     font-weight: bold;
+}
+
+#resume h4 {
+    text-transform: uppercase;
+}
+
+#resume p {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+#resume ul {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bold_italic {
+    font-weight: bold;
+    font-style: italic;
 }

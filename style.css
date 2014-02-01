@@ -1,12 +1,17 @@
 /*CSS for rucklehouse.github.io*/
 body {
-    background-color: #C0E5E4
+    background-color: #C0E5E4;
     font-family: Verdana, Arial, sans-serif;
+}
+
+div {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .header {
     height: 75px;
-    width: 100%;
     margin-top: -20px;
     background-color: #196966;
     padding-top: 10px;
@@ -19,12 +24,18 @@ body {
 .navbar {
     height: 50px;
     margin-top: -20px;
-    width: 100%;
     background-color: #45B3AF;
 }
 
 .navbar ul {
-    margin-left: 30%;
+    position: relative;
+    left: 33%;
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    background-color: orange;
 }
 
 .navbar li {
@@ -48,10 +59,11 @@ a:visited {
 
 a:hover {
     font-weight: bold;
-}
+}  
 
 #resume h4 {
     text-transform: uppercase;
+    margin-bottom: 0px;
 }
 
 #resume p {

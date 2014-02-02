@@ -1,7 +1,7 @@
 /*CSS for rucklehouse.github.io*/
 body {
     background-color: #C0E5E4;
-    font-family: Verdana, Arial, sans-serif;
+    font-family: Candara, Arial, sans-serif;
     margin-top: 0;
 }
 
@@ -27,14 +27,15 @@ div {
     display: table-cell;
     vertical-align: middle;
     margin: 0 auto;
-    padding: 0 auto;
+    padding: 0;
     text-shadow: 2px 2px 4px black;
 }
 
 .navbar {
     display: table;
     height: 50px;
-    margin-top: 0 auto;
+    font-size: 1.25em;
+    margin-top: 0;
     background-color: #45B3AF;
 }
 
@@ -73,6 +74,16 @@ div {
 #homepage, #bio, #resume {
     width: 70%;
     background-color: #C0E5E4;
+}
+
+#homepage p {
+    text-align: center;
+}
+
+#cooley {
+    font-style: italic;
+    font-size: 0.9em;
+    text-align: center;
 }
 
 #resume h4 {

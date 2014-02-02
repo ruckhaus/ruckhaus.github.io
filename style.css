@@ -48,16 +48,16 @@ div {
     color: #FFFFFF;
 }
 
-a:link {
+.navbar a:link {
     text-decoration: none;
     color: #FFFFFF;
 }
 
-a:visited {
+.navbar a:visited {
     color: #FFFFFF;
 }
 
-a:hover {
+.navbar a:hover {
     font-weight: bold;
 }  
 
@@ -78,6 +78,10 @@ a:hover {
 
 .bold {
     font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
 }
 
 .bold_italic {

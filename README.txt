@@ -5,9 +5,16 @@ Assignment 1
 
 TO DO:
 =========================================================
---Fix navbar positioning, header margin and/or padding
-      --Get rid of display: inline-block
---Make resume look pretty
+--Center text on index.html, use br instead of 2 p's
+--Make resume look pretty (figure out indenting)
+--Use ul instead of ol on bio (look at bullet options)
+=========================================================
+
+NOTES
+=========================================================
+--I spent way too much time trying to style the navbar.
+--I committed a lot in the beginning because I didn't
+  realize I could see how it looks without committing.
 =========================================================
 
 1/29/2014 9:55 PM
@@ -18,3 +25,6 @@ Time spent: 1.5 hours on resume content and CSS
 
 1/31/2014 9:29 PM
 Time spent: 0.5 hours on navbar CSS
+
+2/1/2014 10:58 PM
+Time spent: 2 hours on CSS and bio content

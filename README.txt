@@ -5,9 +5,7 @@ Assignment 1
 
 TO DO:
 =========================================================
---Center text on index.html, use br instead of 2 p's
 --Make resume look pretty (figure out indenting)
---Use ul instead of ol on bio (look at bullet options)
 =========================================================
 
 NOTES
@@ -18,7 +16,7 @@ NOTES
 =========================================================
 
 1/29/2014 9:55 PM
-Time spent: ~3.5 hours mostly on CSS
+Time spent: ~3.5 hours mostly on CSS, some redirect page
 
 1/31/2014 12:26 AM
 Time spent: 1.5 hours on resume content and CSS
@@ -28,3 +26,6 @@ Time spent: 0.5 hours on navbar CSS
 
 2/1/2014 10:58 PM
 Time spent: 2 hours on CSS and bio content
+
+2/2/2014 4:07 PM
+Time spent: ~.75 hours on CSS and minor content changes

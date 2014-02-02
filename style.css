@@ -92,13 +92,21 @@ div {
 }
 
 #resume p {
+    padding-left: 5%;
     padding-bottom: 0px;
     margin-bottom: 0px;
+    font-size: 0.95em;
 }
 
 #resume ul {
     padding-top: 0px;
+    padding-left: 5%;
     margin-top: 0px;
+    font-size: 0.95em;
+}
+
+#resume li {
+    margin-left: 5%;
 }
 
 img {

@@ -6,7 +6,7 @@ body {
 }
 
 div {
-    width: 75%;
+    width: 850px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -71,11 +71,6 @@ div {
     font-weight: bold;
 }
 
-#homepage, #bio, #resume {
-    width: 70%;
-    background-color: #C0E5E4;
-}
-
 #homepage p {
     text-align: center;
 }
@@ -87,12 +82,14 @@ div {
 }
 
 #resume h4 {
+    padding-left: 20px;
     text-transform: uppercase;
     margin-bottom: 0px;
 }
 
 #resume p {
-    padding-left: 5%;
+    padding-left: 50px;
+    padding-right: 25px;
     padding-bottom: 0px;
     margin-bottom: 0px;
     font-size: 0.95em;

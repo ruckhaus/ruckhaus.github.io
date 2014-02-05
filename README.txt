@@ -3,29 +3,18 @@ COMP 20
 Assignment 1
 6 February 2014
 
-TO DO:
-=========================================================
---Make resume look pretty (figure out indenting)
-=========================================================
+I'm fairly certain everything was implemented correctly, though it's not a completely responsive design because all of the <div>s have fixed widths and padding.
+The only issue is that, for whatever reason, my resume page is slightly off-center (compared to the index and bio pages). I don't know why that is, since all of the <div>s are the same width and the left and right margins are set to "auto".
 
-NOTES
+I did not collaborate or discuss with anyone.
+
+I spent roughly 10-11 hours on this assignment.
+Most of that time was spent on CSS. I think I could have been a little more creative with the design, but I wanted the pages to look clean and simple.
+
+
+NOTES:
 =========================================================
 --I spent way too much time trying to style the navbar.
 --I committed a lot in the beginning because I didn't
   realize I could see how it looks without committing.
 =========================================================
-
-1/29/2014 9:55 PM
-Time spent: ~3.5 hours mostly on CSS, some redirect page
-
-1/31/2014 12:26 AM
-Time spent: 1.5 hours on resume content and CSS
-
-1/31/2014 9:29 PM
-Time spent: 0.5 hours on navbar CSS
-
-2/1/2014 10:58 PM
-Time spent: 2 hours on CSS and bio content
-
-2/2/2014 4:07 PM
-Time spent: ~.75 hours on CSS and minor content changes

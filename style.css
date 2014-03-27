@@ -1,139 +1,147 @@
 /*CSS for rucklehouse.github.io*/
 body {
-    background-color: #C0E5E4;
-    font-family: Helvetica, Arial, sans-serif;
-    margin-top: 0;
+	background-image: url("/assets/bgp-argyle.png");
+	background-repeat: repeat;
+	background-attachment: fixed;
+	font-family: Helvetica, Arial, sans-serif;
+	margin-top: 0;
 }
 
-div {
-    width: 850px;
-    margin-left: auto;
-    margin-right: auto;
+#home {
+	background: rgba(255,255,255,0.6);
+	border: 2px solid green;
+	border-radius: 5px;
+}
+
+/*div {
+   width: 850px;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .header {
-    display: table;
-    height: 75px;
-    margin-top: 0px;
-    background-color: #196966;
-    padding-top: 10px;
-    text-align: center;
-    font-style: italic;
-    font-size: 1em;
-    color: #FFFFFF;
+	display: table;
+	height: 75px;
+	margin-top: 0px;
+	background-color: #196966;
+	padding-top: 10px;
+	text-align: center;
+	font-style: italic;
+	font-size: 1em;
+	color: #FFFFFF;
 }
 
 .header h1 {
-    display: table-cell;
-    vertical-align: middle;
-    margin: 0 auto;
-    padding: 0;
-    text-shadow: 2px 2px 4px black;
+	display: table-cell;
+	vertical-align: middle;
+	margin: 0 auto;
+	padding: 0;
+	text-shadow: 2px 2px 4px black;
 }
 
 .navbar {
-    display: table;
-    height: 50px;
-    font-size: 1.25em;
-    margin-top: 0;
-    background-color: #45B3AF;
+	display: table;
+	height: 50px;
+	font-size: 1.25em;
+	margin-top: 0;
+	background-color: #45B3AF;
 }
 
 .navbar ul {
-    display: table-cell;
-    vertical-align: middle;
-    position: relative;
-    text-align: center;
-    margin: 0 auto;
+	display: table-cell;
+	vertical-align: middle;
+	position: relative;
+	text-align: center;
+	margin: 0 auto;
 }
 
 .navbar li {
-    display: inline;
-    margin-left: 5%;
-    margin-right: 5%;
-    text-align: center;
-    text-transform: uppercase;
-    text-shadow: 1px 1px 2px black;
-    font-size: 1em;
-    color: #FFFFFF;
+	display: inline;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 2px black;
+	font-size: 1em;
+	color: #FFFFFF;
 }
 
 .navbar a:link {
-    text-decoration: none;
-    color: #FFFFFF;
+	text-decoration: none;
+	color: #FFFFFF;
 }
 
 .navbar a:visited {
-    color: #FFFFFF;
+	color: #FFFFFF;
 }
 
 .navbar a:hover {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 #homepage p {
-    text-align: center;
+	text-align: center;
 }
 
 #bio h2 {
-    padding-left: 20px;
+	padding-left: 20px;
 }
 
 #bio p {
-    padding-left: 20px;
-    padding-right: 25px;
+	padding-left: 20px;
+	padding-right: 25px;
 }
 
 #cooley {
-    font-style: italic;
-    font-size: 0.9em;
-    text-align: center;
+	font-style: italic;
+	font-size: 0.9em;
+	text-align: center;
 }
 
 #bio a {
-    text-decoration: none;
-    color: #196966;
+	text-decoration: none;
+	color: #196966;
 }
 
 #resume h4 {
-    padding-left: 20px;
-    text-transform: uppercase;
-    margin-bottom: 0px;
+	padding-left: 20px;
+	text-transform: uppercase;
+	margin-bottom: 0px;
 }
 
 #resume p {
-    padding-left: 50px;
-    padding-right: 25px;
-    padding-bottom: 0px;
-    margin-bottom: 0px;
-    font-size: 0.95em;
+	padding-left: 50px;
+	padding-right: 25px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	font-size: 0.95em;
 }
 
 #resume ul {
-    padding-top: 0px;
-    padding-left: 5%;
-    margin-top: 0px;
-    font-size: 0.95em;
+	padding-top: 0px;
+	padding-left: 5%;
+	margin-top: 0px;
+	font-size: 0.95em;
 }
 
 #resume li {
-    margin-left: 5%;
+	margin-left: 5%;
 }
 
 img {
-    display: block;
-    margin: 15px auto;
-}
+	display: block;
+	margin: 15px auto;
+}*/
 
 .bold {
-    font-weight: bold;
+	font-weight: bold;
 }
 
 .italic {
-    font-style: italic;
+	font-style: italic;
 }
 
 .bold_italic {
-    font-weight: bold;
-    font-style: italic;
+	font-weight: bold;
+	font-style: italic;
 }

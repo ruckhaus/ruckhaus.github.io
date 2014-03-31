@@ -64,6 +64,11 @@ h1, h2, h3 {
 	color: #7D0096;
 }
 
+#twitter {
+	height: 16px;
+	width: 20px;
+}
+
 hr {
 	width: 95%;
 }

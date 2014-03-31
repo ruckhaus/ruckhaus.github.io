@@ -16,6 +16,7 @@ body {
 	border: 5px solid #7D0096;
 	border-radius: 20px;
 	width: 600px;
+	height: auto;
 	margin: auto;
 	padding: 10% auto;
 	text-align: center;
@@ -39,11 +40,28 @@ h1, h2, h3 {
 	color: #7D0096;
 }
 
+h4 {
+	margin-bottom: 0px;
+	padding-left: 10px;
+	color: #7D0096;
+	text-transform: uppercase;
+}
+
 .inner-content {
 	margin: 0px;
 	padding-left: 20px;
 	padding-right: 20px;
 	text-align: left;
+}
+
+#resume p {
+	padding-left: 25px;
+	margin-bottom: 0px;
+}
+
+#resume ul {
+	margin-top: 0px;
+	padding-left: 50px;
 }
 
 #home #quote {

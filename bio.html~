@@ -19,18 +19,16 @@
 			<a href="https://www.linkedin.com/pub/sarah-ruckhaus/64/bb1/6a4" target="_newtab"><img id="linkedin" src="../assets/linkedin.png" alt="linkedin logo" /></a>
 		</p>
 		<hr />
-		<div class="inner-content" id="bio">
+		<div class="inner-content">
 			<h2>About Me</h2>
 			<p>I'm North Jersey born and raised. I'm (hopefully) a 2014 graduate of the Tufts University School of Engineering with a B.S. in Civil Engineering. My dream job is to be a LEGO Master Builder, but I'm also interested in structural engineering and web development.</p>
-			<h3>Fun Facts!</h3>
+			<h3>Fun Facts:</h3>
 			<ul>
-				<li>I like to express myself through my choice of socks and sneakers. I own more of both than are probably necessary</li>
 				<li>My favorite sport is hockey. My favorite team is the Buffalo Sabres, but I also like the St. Louis Blues, Colorado Avalanche, and San Jose Sharks.</li>
 				<li>I've recently re-discovered soccer (football), and I support Everton FC and AFC Wimbledon.</li>
 				<li>My favorite bands are Bastille and The Gaslight Anthem.</li>
 				<li>I consider myself a mediocre multi-instrumentalist. I have experience with guitar, piano, bass guitar, ukulele, and saxophone (alto and baritone).</li>
 				<li>I like learning new things, which would explain why I still play 3 instruments but I'm not proficeint at any of them.</li>
-				<li>I made the argyle background using Inkscape and an online tutorial.</li>
 				<li>My weaknesses include french fries, banana chips, and a good cheeseburger.</li>
 			</ul>
 		</div>

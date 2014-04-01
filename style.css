@@ -57,6 +57,24 @@ h4 {
 	text-align: left;
 }
 
+#projects > p {
+	font-weight: bold;
+}
+
+#projects > p > a:link, a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+#projects > p > a:hover {
+	color: #7D0096;
+}
+
+#civil, #web {
+	margin:0px;
+	height: 100px;
+}
+
 #resume h5 {
 	display: inline;
 }
@@ -128,9 +146,3 @@ hr {
 		height: auto;
 	}
 }
-
-
-/*img {
-	display: block;
-	margin: 15px auto;
-}*/

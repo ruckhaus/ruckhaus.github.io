@@ -44,7 +44,7 @@ h1, h2, h3 {
 	color: #7D0096;
 }
 
-h4 {
+#resume h4 {
 	margin-bottom: 0px;
 	color: #7D0096;
 	text-transform: uppercase;
@@ -61,18 +61,25 @@ h4 {
 	font-weight: bold;
 }
 
-#projects > p > a:link, a:visited {
+#projects > p, h4 > a:link, a:visited {
 	text-decoration: none;
 	color: #000000;
 }
 
-#projects > p > a:hover {
+#projects > p, h4 > a:hover {
 	color: #7D0096;
+}
+
+#projects ul {
+	margin-top: 0px;
+}
+
+#projects h4 {
+	margin-bottom: 5px;
 }
 
 #civil, #web {
 	margin:0px;
-	height: 100px;
 }
 
 #resume h5 {

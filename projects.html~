@@ -46,9 +46,9 @@
 					<li>Uses a media query to hide the background if the window is less than 992px wide</li>
 				</ul>
 			</div>
-			<!--<div id="civil">
+			<div id="civil">
 				<h2>Civil Engineering Projects</h2>
-			</div>-->
+			</div>
 		</div>
 	</div>
 </body>

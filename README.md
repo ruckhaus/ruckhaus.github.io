@@ -3,5 +3,4 @@
 
 <h3>Notes</h3>
 <li>
-	<ul>Navbar overlaps container.</ul>
 </li>

@@ -9,8 +9,7 @@
 title: Sarah's Domain
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sarah's personal website/blog. Mostly used to keep my web skills sharp but
-  also to provide a home on the web for some of my work and my personal blog.
+  Sarah. 24. VDC specialist. Web development amateur. Athlete. Data nerd.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruckhaus.github.io" # the base hostname & protocol for your site
 twitter_username: SarahRuckus

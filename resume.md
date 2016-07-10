@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 # Sarah Ruckhaus, E.I.T.
-Cambridge, MA
+Somerville, MA
 
 ---
 
@@ -35,7 +35,7 @@ January 2012 - May 2012; Medford, MA
 
 ### Skills
 Civil 3D, 3DS Max, Navisworks, Autodesk Recap, MS Excel, SAP 2000 <br />
-HTML, CSS, Jekyll, Javascript/jQuery
+HTML, CSS, Jekyll, Javascript, jQuery
 
 ---
 
@@ -49,7 +49,7 @@ HTML, CSS, Jekyll, Javascript/jQuery
 ### Education
 
 **Tufts University** <br />
-B.S. Civil Engineering, magna cum laude <br />
+B.S. Civil Engineering, *magna cum laude* <br />
 Sept. 2010 - May 2014 <br />
 *Activities*: Tau Beta Pi, ASCE, Steel Bridge Team, Hybrid Racing, Undergraduate Orientation Leader, BSCE Program Review Board
 

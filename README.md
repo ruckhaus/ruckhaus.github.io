@@ -1,6 +1,5 @@
-## README for ruckhaus.github.io - dev branch
-2016-05-14: fresh start, beginning work with jekyll <br />
-2016-05-21: edit about.md, create resume.md
+## README for ruckhaus.github.io - hyde branch
+2016-07-09 add hyde theme
 ___
 
 ### Useful Links

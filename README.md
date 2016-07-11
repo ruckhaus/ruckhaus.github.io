@@ -1,5 +1,7 @@
 ## README for ruckhaus.github.io - hyde branch
-2016-07-11 css modifications
+NOTE: blog.html should look like current index.html
+
+2016-07-11 css modifications <br />
 2016-07-09 add hyde theme
 ___
 

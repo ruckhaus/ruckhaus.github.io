@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Sarah's Domain
+title: Haus of Sarah
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sarah. 24. VDC specialist. Web development amateur. Athlete. Data nerd.
+  Sarah. 24. VDC specialist. Web development amateur. "Athlete." Data nerd.
 baseurl: / # the subpath of your site, e.g. /blog
 url: "https://ruckhaus.github.io" # the base hostname & protocol for your site
 twitter_username: SarahRuckus

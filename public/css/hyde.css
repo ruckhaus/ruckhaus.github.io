@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,.75);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -177,6 +177,15 @@ a.sidebar-nav-item:focus {
  */
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
+
+/* Teal */
+.theme-base-teal .sidebar {
+  background-color: #54decc;
+}
+.theme-base-teal .content a,
+.theme-base-teal .related-posts li a:hover {
+  color: #54decc;
+}
 
 /* Red */
 .theme-base-08 .sidebar {

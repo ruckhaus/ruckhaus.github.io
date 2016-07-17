@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 # Sarah Ruckhaus, E.I.T.
-Cambridge, MA
+Somerville, MA
 
 ---
 

@@ -1,8 +1,6 @@
 ## README for ruckhaus.github.io - hyde branch
-NOTE: blog.html should look like current index.html
-
-2016-07-17 add blog page, adjust index accordingly <br />
-           add social media icons, having some issues with Linkedin and RSS <br />
+2016-07-20 rearrange blog title/date <br />
+2016-07-17 add blog page, adjust index accordingly; add social media icons, having some issues with Linkedin and RSS <br />
 2016-07-12/14 settle on theme color <br />
 2016-07-11 css modifications <br />
 2016-07-09 add hyde theme

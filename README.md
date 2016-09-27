@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2016-09-27 almost fixed linkedin and RSS SVGs (need to figure out transparent holes in logos) <br />
 2016-09-26 playing with new linkedin SVG <br />
 2016-07-20 rearrange blog title/date <br />
 2016-07-17 add blog page, adjust index accordingly; add social media icons, having some issues with Linkedin and RSS <br />

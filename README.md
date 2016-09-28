@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2016-09-28 begin working with the favicon <br />
 2016-09-27 finished sidebar logos <br />
 2016-09-26 playing with new linkedin SVG <br />
 2016-07-20 rearrange blog title/date <br />

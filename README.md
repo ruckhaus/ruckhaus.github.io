@@ -20,6 +20,7 @@ ___
 * Archive in right sidebar for blog
 * Searchable/clickable tags in right sidebar for blog (look at a Wordpress site?)
 * Buy ruck.haus domain (and email forwarding?) on Hover
+* Move to dev branch/master, delete hyde branch
 * Fix/update old COMP 20 Projects for site page
 * Talk to Paul about IP for Skanska work to possibly showcase
 

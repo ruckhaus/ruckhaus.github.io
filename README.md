@@ -1,5 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
-2016-09-29 reading on favicon, putting to do list together <br />
+2016-09-29 reading on favicon, putting to do list together, create projects page <br />
 2016-09-28 begin working with the favicon <br />
 2016-09-27 finished sidebar logos <br />
 2016-09-26 playing with new linkedin SVG <br />
@@ -13,8 +13,8 @@ ___
 ### To Do
 
 * Create favicon (32x32 or 100x100)
-* Change SM icons on hover in css
-* See if fills for SM icons can be changed in css
+* Change SM icons on hover in CSS
+* See if fills for SM icons can be changed in CSS
 * Write/edit test blog posts
 * Tags for blog
 * Archive in right sidebar for blog
@@ -23,6 +23,7 @@ ___
 * Move to dev branch/master, delete hyde branch
 * Fix/update old COMP 20 Projects for site page
 * Talk to Paul about IP for Skanska work to possibly showcase
+* Edit CSS a bit (text sizes and maybe padding/margins on main page area)
 
 ___
 

@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2016-09-29 reading on favicon, putting to do list together <br />
 2016-09-28 begin working with the favicon <br />
 2016-09-27 finished sidebar logos <br />
 2016-09-26 playing with new linkedin SVG <br />
@@ -7,6 +8,21 @@
 2016-07-12/14 settle on theme color <br />
 2016-07-11 css modifications <br />
 2016-07-09 add hyde theme
+
+___
+### To Do
+
+* Create favicon (32x32 or 100x100)
+* Change SM icons on hover in css
+* See if fills for SM icons can be changed in css
+* Write/edit test blog posts
+* Tags for blog
+* Archive in right sidebar for blog
+* Searchable/clickable tags in right sidebar for blog (look at a Wordpress site?)
+* Buy ruck.haus domain (and email forwarding?) on Hover
+* Fix/update old COMP 20 Projects for site page
+* Talk to Paul about IP for Skanska work to possibly showcase
+
 ___
 
 ### Useful Links

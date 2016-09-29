@@ -39,6 +39,7 @@ ___
 [Barry Clark: Build a Blog with Jekyll and Github Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) <br />
 [Hongkiat: Create a Blog with Jekyll](http://www.hongkiat.com/blog/blog-with-jekyll/) <br />
 [Brad Westfall: Github Pages and Jekyll Beginner Video](https://www.youtube.com/watch?v=nN6QuNqmAwk)
+[Kyle Stratis: Setting Up an Elegant Blog with Github Pages, Jekyll, and Poole; Part II](http://kylestratis.com/2015/05/05/blog-setup-pt2/)
 
 [Jekyll New Theme Source Code](https://github.com/jglovier/jekyll-new) <br />
 [Jekyll Source Code](https://github.com/jekyll/jekyll)

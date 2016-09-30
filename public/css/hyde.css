@@ -269,3 +269,7 @@ a.sidebar-nav-item:focus {
     width: 24px;
     height: 24px;
   }
+
+  .icon:hover {
+    transform: scale(1.125);
+  }

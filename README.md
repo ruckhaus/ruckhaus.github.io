@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2016-10-01 create new favicon
 2016-09-30 social media icon effects </br>
 2016-09-29 reading on favicon, putting to do list together, create projects page <br />
 2016-09-28 begin working with the favicon <br />
@@ -13,7 +14,7 @@
 ___
 ### To Do
 
-* Create favicon (32x32 or 100x100)
+* ~~Create favicon (32x32 or 100x100)~~ 10/01/16 (32x32)
 * ~~Change SM icons on hover in CSS~~ 9/30/16
 * Write/edit test blog posts
 * Tags for blog

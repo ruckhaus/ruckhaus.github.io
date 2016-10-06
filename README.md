@@ -1,6 +1,7 @@
 ## README for ruckhaus.github.io - hyde branch
-2016-10-01 create new favicon
-2016-09-30 social media icon effects </br>
+2016-10-06 created blog sidebar code, not yet implemented or useful <br/>
+2016-10-01 create new favicon <br />
+2016-09-30 social media icon effects <br />
 2016-09-29 reading on favicon, putting to do list together, create projects page <br />
 2016-09-28 begin working with the favicon <br />
 2016-09-27 finished sidebar logos <br />

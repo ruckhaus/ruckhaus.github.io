@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2016-11-25 updated jobs project, added link to project page </br >
 2016-10-06 created blog sidebar code, not yet implemented or useful <br/>
 2016-10-01 create new favicon <br />
 2016-09-30 social media icon effects <br />

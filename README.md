@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2016-11-29 updating transit project, need API key to work on site <br />
 2016-11-25 updated jobs project, added link to project page </br >
 2016-10-06 created blog sidebar code, not yet implemented or useful <br/>
 2016-10-01 create new favicon <br />

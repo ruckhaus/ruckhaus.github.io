@@ -8,4 +8,14 @@ layout: default
     to learn a little about me and see some of my work.</p>
   <p>Cheers!</p>
 
+  <h2>Recent Posts</h2>
+  <ul>
+  {% for post in site.posts limit: 5 %}
+    <li>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><strong>{{ post.title }}</strong></a>
+      <span class="post-meta">{{ post.date | date: "%Y %b %d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
+
 </div>

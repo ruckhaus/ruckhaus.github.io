@@ -1,4 +1,5 @@
 ## README for ruckhaus.github.io - hyde branch
+2017-01-15 small updates <br />
 2017-01-03 first blog post, blog-related site edits <br />
 2016-11-29 updating transit project, need API key to work on site <br />
 2016-11-25 updated jobs project, added link to project page </br >
@@ -20,14 +21,13 @@ ___
 
 * ~~Create favicon (32x32 or 100x100)~~ 10/01/16 (32x32)
 * ~~Change SM icons on hover in CSS~~ 9/30/16
-* Write/edit test blog posts
+* ~~Write/edit test blog posts~~
 * Tags for blog
 * Archive in right sidebar for blog
 * Searchable/clickable tags in right sidebar for blog (look at a Wordpress site?)
 * Buy ruck.haus domain (and email forwarding?) on Hover
 * Move to dev branch/master, delete hyde branch
 * Fix/update old COMP 20 Projects for site page
-* Talk to Paul about IP for Skanska work to possibly showcase
 * Photo for either home or about page
 * Edit CSS a bit (text sizes and maybe padding/margins on main page area)
 

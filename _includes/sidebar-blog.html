@@ -1,0 +1,21 @@
+<div class="sidebar-blog">
+  <div id="blog-archive">
+    <h4>Past Entries</h4>
+    <ul>
+      {% for post in site.post %}
+        {% unless post.next %}
+          <h5>{{ post.date | date: '%Y' }}</h5>
+        {% else %}
+          {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+          {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+          {% if year != nyear %}
+            <h5>{{ post.date | date: '%Y' }}</h5>
+        {% endif %}
+        {% endunless %}
+        <li>{{ post.date | date:"%b" }} <a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% end for %}
+    </ul>
+  </div>
+  <div id="blog-tags">
+  </div>
+</div>

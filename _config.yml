@@ -10,7 +10,7 @@ title: Sarah Ruckhaus
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   25. VDC specialist. Web development amateur. "Athlete." Data nerd.
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "sarahruckhaus.com" # the base hostname & protocol for your site
 twitter_username: SarahRuckus
 github_username:  ruckhaus
